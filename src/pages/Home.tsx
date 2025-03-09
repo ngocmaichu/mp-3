@@ -71,7 +71,7 @@ export default function Home() {
                 </MainText>
                 <br></br>
                 <MainImage>
-                    <ProfileImage src="maichu.jpeg" alt="Mai Chu" />
+                    <ProfileImage src="./public/maichu.jpeg" alt="Mai Chu" />
                 </MainImage>
             </MainContent>
         </>
